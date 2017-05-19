@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mtgr8_pocketlistings/!svn/ver/5/pocketListings_4.4.1/Classes
+END
+mTgr8DateSelector.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8DateSelector.xib
+END
+AgentBrowViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/AgentBrowViewController.m
+END
+pocketListingsAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mtgr8_pocketlistings/!svn/ver/3/pocketListings_4.4.1/Classes/pocketListingsAppDelegate.h
+END
+AgentBrowserViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/AgentBrowserViewController.h
+END
+mTgr8RangeSelectorVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8RangeSelectorVC.xib
+END
+pocketListingsAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mtgr8_pocketlistings/!svn/ver/5/pocketListings_4.4.1/Classes/pocketListingsAppDelegate.m
+END
+SelectCityStateView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SelectCityStateView.h
+END
+MortgageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MortgageViewController.h
+END
+AgentBrowserViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/AgentBrowserViewController.m
+END
+webViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/webViewController.xib
+END
+SearchResultController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SearchResultController.h
+END
+SelectCityStateView.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SelectCityStateView.m
+END
+MortgageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MortgageViewController.m
+END
+SearchResultController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mtgr8_pocketlistings/!svn/ver/4/pocketListings_4.4.1/Classes/SearchResultController.m
+END
+mTgr8More.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mtgr8_pocketlistings/!svn/ver/4/pocketListings_4.4.1/Classes/mTgr8More.xib
+END
+AgentCityPickerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/AgentCityPickerViewController.h
+END
+mTgr8Favorites.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mtgr8_pocketlistings/!svn/ver/5/pocketListings_4.4.1/Classes/mTgr8Favorites.h
+END
+AgentCityPickerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/AgentCityPickerViewController.m
+END
+mTgr8Favorites.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mtgr8_pocketlistings/!svn/ver/5/pocketListings_4.4.1/Classes/mTgr8Favorites.m
+END
+SettingsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SettingsViewController.xib
+END
+PropertyAgeVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/PropertyAgeVC.h
+END
+MoreViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MoreViewController.xib
+END
+mTgr8NewSearch.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8NewSearch.xib
+END
+SettingsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SettingsViewController.h
+END
+PropertyAgeVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/PropertyAgeVC.m
+END
+SearchCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SearchCell.xib
+END
+AppUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/AppUtils.h
+END
+MoreViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MoreViewController.h
+END
+mTgr8NewSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8NewSearch.h
+END
+PageView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/PageView.xib
+END
+mTgr8SearchHistory.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8SearchHistory.xib
+END
+SettingsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SettingsViewController.m
+END
+SearchCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SearchCell.h
+END
+AppUtils.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/AppUtils.m
+END
+MoreViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MoreViewController.m
+END
+mTgr8NewSearch.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8NewSearch.m
+END
+mTgr8AccessCode.xib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mtgr8_pocketlistings/!svn/ver/3/pocketListings_4.4.1/Classes/mTgr8AccessCode.xib
+END
+mTgr8SearchHistory.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8SearchHistory.h
+END
+SearchCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SearchCell.m
+END
+SchoolDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SchoolDetail.h
+END
+MortgageCalculator.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MortgageCalculator.xib
+END
+CustomSelectionCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/CustomSelectionCell.xib
+END
+mTgr8SearchSettingObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8SearchSettingObject.h
+END
+mTgr8SearchHistory.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8SearchHistory.m
+END
+SchoolDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SchoolDetail.m
+END
+MortgageCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MortgageCalculator.h
+END
+mTgr8SearchSettingObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8SearchSettingObject.m
+END
+MortgageCalculator.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MortgageCalculator.m
+END
+mTgr8MyCriteria.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8MyCriteria.h
+END
+MLSSearchHistory.xib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MLSSearchHistory.xib
+END
+SelectCityStateView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SelectCityStateView.xib
+END
+MortgageViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mtgr8_pocketlistings/!svn/ver/4/pocketListings_4.4.1/Classes/MortgageViewController.xib
+END
+mTgr8MyCriteria.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mtgr8_pocketlistings/!svn/ver/4/pocketListings_4.4.1/Classes/mTgr8MyCriteria.m
+END
+mTgr8-PropertyDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8-PropertyDetailViewController.xib
+END
+mTgr8DateSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8DateSelector.h
+END
+mTgr8HomeView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mtgr8_pocketlistings/!svn/ver/3/pocketListings_4.4.1/Classes/mTgr8HomeView.xib
+END
+SearchResultController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SearchResultController.xib
+END
+MLSSearchHistory.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MLSSearchHistory.h
+END
+mTgr8-PropertyDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8-PropertyDetailViewController.h
+END
+mTgr8DateSelector.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8DateSelector.m
+END
+mTgr8HomeView.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8HomeView.h
+END
+OverlayView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/OverlayView.xib
+END
+mTgr8RangeSelectorVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8RangeSelectorVC.h
+END
+MLSSearchHistory.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MLSSearchHistory.m
+END
+mTgr8-PropertyDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8-PropertyDetailViewController.m
+END
+mTgr8HomeView.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mtgr8_pocketlistings/!svn/ver/5/pocketListings_4.4.1/Classes/mTgr8HomeView.m
+END
+PageViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/PageViewController.h
+END
+AsyncImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/AsyncImageView.h
+END
+webViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/webViewController.h
+END
+mTgr8RangeSelectorVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8RangeSelectorVC.m
+END
+AgentCityPickerViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/AgentCityPickerViewController.xib
+END
+mTgr8Favorites.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr8Favorites.xib
+END
+PageViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/PageViewController.m
+END
+AsyncImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/AsyncImageView.m
+END
+webViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/webViewController.m
+END
+SchoolAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SchoolAnnotation.h
+END
+mTgr8More.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mtgr8_pocketlistings/!svn/ver/3/pocketListings_4.4.1/Classes/mTgr8More.h
+END
+PropertyAgeVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/PropertyAgeVC.xib
+END
+SchoolAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SchoolAnnotation.m
+END
+mTgr8More.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mtgr8_pocketlistings/!svn/ver/3/pocketListings_4.4.1/Classes/mTgr8More.m
+END
+CityStateData.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/CityStateData.h
+END
+SchoolDetail.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/SchoolDetail.xib
+END
+CityStateData.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/CityStateData.m
+END
+PropertyTypeVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/PropertyTypeVC.xib
+END
+mTgr8AccessCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mtgr8_pocketlistings/!svn/ver/3/pocketListings_4.4.1/Classes/mTgr8AccessCode.h
+END
+PropertyTypeVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/PropertyTypeVC.h
+END
+CustomSelectionCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/CustomSelectionCell.h
+END
+OverlayViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/OverlayViewController.h
+END
+AgentBrowViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/AgentBrowViewController.xib
+END
+mTgr8AccessCode.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mtgr8_pocketlistings/!svn/ver/3/pocketListings_4.4.1/Classes/mTgr8AccessCode.m
+END
+PropertyTypeVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/PropertyTypeVC.m
+END
+OverlayViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/OverlayViewController.m
+END
+CustomSelectionCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/CustomSelectionCell.m
+END
+mTgr8MyCriteria.xib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mtgr8_pocketlistings/!svn/ver/3/pocketListings_4.4.1/Classes/mTgr8MyCriteria.xib
+END
+AgentBrowViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/AgentBrowViewController.h
+END

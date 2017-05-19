@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML
+END
+CXMLElement_ElementTreeExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLElement_ElementTreeExtensions.m
+END
+CXMLNode_XPathExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLNode_XPathExtensions.h
+END
+CXMLDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLDocument.h
+END
+CXMLNode_XPathExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLNode_XPathExtensions.m
+END
+TouchXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/TouchXML.h
+END
+CXMLDocument_CreationExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLDocument_CreationExtensions.h
+END
+CXMLDocument.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLDocument.m
+END
+CXMLNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLNode.h
+END
+CXMLDocument_CreationExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLDocument_CreationExtensions.m
+END
+CXMLDocument_PrivateExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLDocument_PrivateExtensions.h
+END
+CXMLNode_CreationExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLNode_CreationExtensions.h
+END
+CXMLElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLElement.h
+END
+CXMLNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLNode.m
+END
+CXMLElement_CreationExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLElement_CreationExtensions.h
+END
+CXMLDocument_PrivateExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLDocument_PrivateExtensions.m
+END
+CXMLNode_CreationExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLNode_CreationExtensions.m
+END
+CXMLElement.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLElement.m
+END
+CXMLNode_PrivateExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLNode_PrivateExtensions.h
+END
+CXMLElement_ElementTreeExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLElement_ElementTreeExtensions.h
+END
+CXMLElement_CreationExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLElement_CreationExtensions.m
+END
+CXMLNode_PrivateExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/mTgr/generic/TouchXML/CXMLNode_PrivateExtensions.m
+END

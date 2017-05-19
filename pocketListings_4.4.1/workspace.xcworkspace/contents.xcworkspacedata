@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:stig-json-framework-5f73181"
+      name = "stig-json-framework-5f73181">
+      <FileRef
+         location = "group:Changes.md">
+      </FileRef>
+      <Group
+         location = "group:Classes"
+         name = "Classes">
+         <FileRef
+            location = "group:NSObject+SBJson.h">
+         </FileRef>
+         <FileRef
+            location = "group:NSObject+SBJson.m">
+         </FileRef>
+         <FileRef
+            location = "group:SBJson.h">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonParser.h">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonParser.m">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamParser.h">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamParser.m">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamParserAccumulator.h">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamParserAccumulator.m">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamParserAdapter.h">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamParserAdapter.m">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamParserState.h">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamParserState.m">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamWriter.h">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamWriter.m">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamWriterAccumulator.h">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamWriterAccumulator.m">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamWriterState.h">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonStreamWriterState.m">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonTokeniser.h">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonTokeniser.m">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonUTF8Stream.h">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonUTF8Stream.m">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonWriter.h">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonWriter.m">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Credits.md">
+      </FileRef>
+      <Group
+         location = "group:Examples"
+         name = "Examples">
+         <Group
+            location = "group:DisplayPretty"
+            name = "DisplayPretty">
+            <Group
+               location = "group:DisplayPretty"
+               name = "DisplayPretty">
+               <FileRef
+                  location = "group:DisplayPretty-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:DisplayPretty-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:DisplayPrettyAppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:DisplayPrettyAppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:DisplayPrettyController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:DisplayPrettyController.m">
+               </FileRef>
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:Credits.rtf">
+                  </FileRef>
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainMenu.xib">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:DisplayPretty.xcodeproj">
+            </FileRef>
+            <FileRef
+               location = "group:Readme.md">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:TweetStream"
+            name = "TweetStream">
+            <FileRef
+               location = "group:Readme.md">
+            </FileRef>
+            <Group
+               location = "group:TweetStream"
+               name = "TweetStream">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainWindow.xib">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TweetStreamViewController.xib">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TweetStream-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:TweetStream-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:TweetStreamAppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TweetStreamAppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TweetStreamViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TweetStreamViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:TweetStream.xcodeproj">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:InstallDocumentation.sh">
+      </FileRef>
+      <FileRef
+         location = "group:LICENSE">
+      </FileRef>
+      <FileRef
+         location = "group:Readme.md">
+      </FileRef>
+      <FileRef
+         location = "group:ReleaseChecklist.md">
+      </FileRef>
+      <Group
+         location = "group:SBJson"
+         name = "SBJson">
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:SBJson-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SBJson-Prefix.pch">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:sbjson-ios"
+         name = "sbjson-ios">
+         <FileRef
+            location = "group:sbjson-ios-Prefix.pch">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:sbjson-iosTests"
+         name = "sbjson-iosTests">
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:sbjson-iosTests-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:sbjson-iosTests-Prefix.pch">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:SBJson.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:SBJsonTests"
+         name = "SBJsonTests">
+         <Group
+            location = "group:en.lproj"
+            name = "en.lproj">
+            <FileRef
+               location = "group:InfoPlist.strings">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:SBJsonTests-Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SBJsonTests-Prefix.pch">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Tests"
+         name = "Tests">
+         <Group
+            location = "group:Data"
+            name = "Data">
+            <Group
+               location = "group:format"
+               name = "format">
+               <Group
+                  location = "group:basic"
+                  name = "basic">
+                  <FileRef
+                     location = "group:input">
+                  </FileRef>
+                  <FileRef
+                     location = "group:output">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:json.org"
+                  name = "json.org">
+                  <Group
+                     location = "group:a"
+                     name = "a">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:b"
+                     name = "b">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:c"
+                     name = "c">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:d"
+                     name = "d">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:e"
+                     name = "e">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:README">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:rfc4627"
+                  name = "rfc4627">
+                  <Group
+                     location = "group:a"
+                     name = "a">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:b"
+                     name = "b">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:README">
+                  </FileRef>
+               </Group>
+            </Group>
+            <Group
+               location = "group:invalid"
+               name = "invalid">
+               <Group
+                  location = "group:array"
+                  name = "array">
+                  <Group
+                     location = "group:eof-1"
+                     name = "eof-1">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:eof-2"
+                     name = "eof-2">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:eof-3"
+                     name = "eof-3">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:eof-4"
+                     name = "eof-4">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:boolean"
+                  name = "boolean">
+                  <Group
+                     location = "group:false"
+                     name = "false">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:true"
+                     name = "true">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:depth"
+                  name = "depth">
+                  <FileRef
+                     location = "group:error">
+                  </FileRef>
+                  <FileRef
+                     location = "group:input">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:encoding"
+                  name = "encoding">
+                  <Group
+                     location = "group:utf8"
+                     name = "utf8">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:eof"
+                  name = "eof">
+                  <FileRef
+                     location = "group:error">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:garbage"
+                  name = "garbage">
+                  <Group
+                     location = "group:asterisk"
+                     name = "asterisk">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:single-quote"
+                     name = "single-quote">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:null"
+                  name = "null">
+                  <FileRef
+                     location = "group:error">
+                  </FileRef>
+                  <FileRef
+                     location = "group:input">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:number"
+                  name = "number">
+                  <Group
+                     location = "group:leading-plus"
+                     name = "leading-plus">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:leading-zero"
+                     name = "leading-zero">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:no-digits-after-decimal"
+                     name = "no-digits-after-decimal">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:no-digits-after-exponent-1"
+                     name = "no-digits-after-exponent-1">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:no-digits-after-exponent-2"
+                     name = "no-digits-after-exponent-2">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:no-digits-after-exponent-3"
+                     name = "no-digits-after-exponent-3">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:no-digits-after-minus"
+                     name = "no-digits-after-minus">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:object"
+                  name = "object">
+                  <Group
+                     location = "group:eof-1"
+                     name = "eof-1">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:eof-2"
+                     name = "eof-2">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:eof-3"
+                     name = "eof-3">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:eof-4"
+                     name = "eof-4">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:string"
+                  name = "string">
+                  <Group
+                     location = "group:ctrl-chars"
+                     name = "ctrl-chars">
+                     <Group
+                        location = "group:newline"
+                        name = "newline">
+                        <FileRef
+                           location = "group:error">
+                        </FileRef>
+                        <FileRef
+                           location = "group:input">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:tab"
+                        name = "tab">
+                        <FileRef
+                           location = "group:error">
+                        </FileRef>
+                        <FileRef
+                           location = "group:input">
+                        </FileRef>
+                     </Group>
+                  </Group>
+                  <Group
+                     location = "group:invalid-hex-quad"
+                     name = "invalid-hex-quad">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:unicode-invalid-high-surrogate"
+                     name = "unicode-invalid-high-surrogate">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:unicode-invalid-low-surrogate"
+                     name = "unicode-invalid-low-surrogate">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:unicode-missing-low-surrogate"
+                     name = "unicode-missing-low-surrogate">
+                     <FileRef
+                        location = "group:error">
+                     </FileRef>
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                  </Group>
+               </Group>
+            </Group>
+            <Group
+               location = "group:jsonchecker"
+               name = "jsonchecker">
+               <FileRef
+                  location = "group:fail1.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail10.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail11.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail12.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail13.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail14.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail15.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail16.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail17.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail18.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail19.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail2.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail20.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail21.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail22.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail23.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail24.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail25.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail26.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail27.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail28.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail29.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail3.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail30.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail31.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail32.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail33.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail4.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail5.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail6.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail7.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail8.json">
+               </FileRef>
+               <FileRef
+                  location = "group:fail9.json">
+               </FileRef>
+               <FileRef
+                  location = "group:pass1.json">
+               </FileRef>
+               <FileRef
+                  location = "group:pass2.json">
+               </FileRef>
+               <FileRef
+                  location = "group:pass3.json">
+               </FileRef>
+               <FileRef
+                  location = "group:README">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:valid"
+               name = "valid">
+               <Group
+                  location = "group:array"
+                  name = "array">
+                  <FileRef
+                     location = "group:input">
+                  </FileRef>
+                  <FileRef
+                     location = "group:output">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:boolean"
+                  name = "boolean">
+                  <FileRef
+                     location = "group:input">
+                  </FileRef>
+                  <FileRef
+                     location = "group:output">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:null"
+                  name = "null">
+                  <FileRef
+                     location = "group:input">
+                  </FileRef>
+                  <FileRef
+                     location = "group:output">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:number"
+                  name = "number">
+                  <Group
+                     location = "group:exponential"
+                     name = "exponential">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:float"
+                     name = "float">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:integer"
+                     name = "integer">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:object"
+                  name = "object">
+                  <FileRef
+                     location = "group:input">
+                  </FileRef>
+                  <FileRef
+                     location = "group:output">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:string"
+                  name = "string">
+                  <Group
+                     location = "group:ctrl"
+                     name = "ctrl">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:ctrl-shorthand"
+                     name = "ctrl-shorthand">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:escapes"
+                     name = "escapes">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:simple"
+                     name = "simple">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:unicode-captial-alpha"
+                     name = "unicode-captial-alpha">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:unicode-e-acute"
+                     name = "unicode-e-acute">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:unicode-e-acute-and-ge"
+                     name = "unicode-e-acute-and-ge">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:unicode-e-acute-and-ge-and-42"
+                     name = "unicode-e-acute-and-ge-and-42">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:unicode-g-clef"
+                     name = "unicode-g-clef">
+                     <FileRef
+                        location = "group:input">
+                     </FileRef>
+                     <FileRef
+                        location = "group:output">
+                     </FileRef>
+                  </Group>
+               </Group>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:ErrorTest.m">
+         </FileRef>
+         <FileRef
+            location = "group:FormatTest.m">
+         </FileRef>
+         <FileRef
+            location = "group:JsonCheckerTest.m">
+         </FileRef>
+         <FileRef
+            location = "group:JsonTestCase.h">
+         </FileRef>
+         <FileRef
+            location = "group:JsonTestCase.m">
+         </FileRef>
+         <FileRef
+            location = "group:ProxyTest.m">
+         </FileRef>
+         <FileRef
+            location = "group:RoundTripTest.m">
+         </FileRef>
+         <Group
+            location = "group:Stream"
+            name = "Stream">
+            <FileRef
+               location = "group:xaa">
+            </FileRef>
+            <FileRef
+               location = "group:xab">
+            </FileRef>
+            <FileRef
+               location = "group:xac">
+            </FileRef>
+            <FileRef
+               location = "group:xad">
+            </FileRef>
+            <FileRef
+               location = "group:xae">
+            </FileRef>
+            <FileRef
+               location = "group:xaf">
+            </FileRef>
+            <FileRef
+               location = "group:xag">
+            </FileRef>
+            <FileRef
+               location = "group:xah">
+            </FileRef>
+            <FileRef
+               location = "group:xai">
+            </FileRef>
+            <FileRef
+               location = "group:xaj">
+            </FileRef>
+            <FileRef
+               location = "group:xak">
+            </FileRef>
+            <FileRef
+               location = "group:xal">
+            </FileRef>
+            <FileRef
+               location = "group:xam">
+            </FileRef>
+            <FileRef
+               location = "group:xan">
+            </FileRef>
+            <FileRef
+               location = "group:xao">
+            </FileRef>
+            <FileRef
+               location = "group:xap">
+            </FileRef>
+            <FileRef
+               location = "group:xaq">
+            </FileRef>
+            <FileRef
+               location = "group:xar">
+            </FileRef>
+            <FileRef
+               location = "group:xas">
+            </FileRef>
+            <FileRef
+               location = "group:xat">
+            </FileRef>
+            <FileRef
+               location = "group:xau">
+            </FileRef>
+            <FileRef
+               location = "group:xav">
+            </FileRef>
+            <FileRef
+               location = "group:xaw">
+            </FileRef>
+            <FileRef
+               location = "group:xax">
+            </FileRef>
+            <FileRef
+               location = "group:xay">
+            </FileRef>
+            <FileRef
+               location = "group:xaz">
+            </FileRef>
+            <FileRef
+               location = "group:xba">
+            </FileRef>
+            <FileRef
+               location = "group:xbb">
+            </FileRef>
+            <FileRef
+               location = "group:xbc">
+            </FileRef>
+            <FileRef
+               location = "group:xbd">
+            </FileRef>
+            <FileRef
+               location = "group:xbe">
+            </FileRef>
+            <FileRef
+               location = "group:xbf">
+            </FileRef>
+            <FileRef
+               location = "group:xbg">
+            </FileRef>
+            <FileRef
+               location = "group:xbh">
+            </FileRef>
+            <FileRef
+               location = "group:xbi">
+            </FileRef>
+            <FileRef
+               location = "group:xbj">
+            </FileRef>
+            <FileRef
+               location = "group:xbk">
+            </FileRef>
+            <FileRef
+               location = "group:xbl">
+            </FileRef>
+            <FileRef
+               location = "group:xbm">
+            </FileRef>
+            <FileRef
+               location = "group:xbn">
+            </FileRef>
+            <FileRef
+               location = "group:xbo">
+            </FileRef>
+            <FileRef
+               location = "group:xbp">
+            </FileRef>
+            <FileRef
+               location = "group:xbq">
+            </FileRef>
+            <FileRef
+               location = "group:xbr">
+            </FileRef>
+            <FileRef
+               location = "group:xbs">
+            </FileRef>
+            <FileRef
+               location = "group:xbt">
+            </FileRef>
+            <FileRef
+               location = "group:xbu">
+            </FileRef>
+            <FileRef
+               location = "group:xbv">
+            </FileRef>
+            <FileRef
+               location = "group:xbw">
+            </FileRef>
+            <FileRef
+               location = "group:xbx">
+            </FileRef>
+            <FileRef
+               location = "group:xby">
+            </FileRef>
+            <FileRef
+               location = "group:xbz">
+            </FileRef>
+            <FileRef
+               location = "group:xca">
+            </FileRef>
+            <FileRef
+               location = "group:xcb">
+            </FileRef>
+            <FileRef
+               location = "group:xcc">
+            </FileRef>
+            <FileRef
+               location = "group:xcd">
+            </FileRef>
+            <FileRef
+               location = "group:xce">
+            </FileRef>
+            <FileRef
+               location = "group:xcf">
+            </FileRef>
+            <FileRef
+               location = "group:xcg">
+            </FileRef>
+            <FileRef
+               location = "group:xch">
+            </FileRef>
+            <FileRef
+               location = "group:xci">
+            </FileRef>
+            <FileRef
+               location = "group:xcj">
+            </FileRef>
+            <FileRef
+               location = "group:xck">
+            </FileRef>
+            <FileRef
+               location = "group:xcl">
+            </FileRef>
+            <FileRef
+               location = "group:xcm">
+            </FileRef>
+            <FileRef
+               location = "group:xcn">
+            </FileRef>
+            <FileRef
+               location = "group:xco">
+            </FileRef>
+            <FileRef
+               location = "group:xcp">
+            </FileRef>
+            <FileRef
+               location = "group:xcq">
+            </FileRef>
+            <FileRef
+               location = "group:xcr">
+            </FileRef>
+            <FileRef
+               location = "group:xcs">
+            </FileRef>
+            <FileRef
+               location = "group:xct">
+            </FileRef>
+            <FileRef
+               location = "group:xcu">
+            </FileRef>
+            <FileRef
+               location = "group:xcv">
+            </FileRef>
+            <FileRef
+               location = "group:xcw">
+            </FileRef>
+            <FileRef
+               location = "group:xcx">
+            </FileRef>
+            <FileRef
+               location = "group:xcy">
+            </FileRef>
+            <FileRef
+               location = "group:xcz">
+            </FileRef>
+            <FileRef
+               location = "group:xda">
+            </FileRef>
+            <FileRef
+               location = "group:xdb">
+            </FileRef>
+            <FileRef
+               location = "group:xdc">
+            </FileRef>
+            <FileRef
+               location = "group:xdd">
+            </FileRef>
+            <FileRef
+               location = "group:xde">
+            </FileRef>
+            <FileRef
+               location = "group:xdf">
+            </FileRef>
+            <FileRef
+               location = "group:xdg">
+            </FileRef>
+            <FileRef
+               location = "group:xdh">
+            </FileRef>
+            <FileRef
+               location = "group:xdi">
+            </FileRef>
+            <FileRef
+               location = "group:xdj">
+            </FileRef>
+            <FileRef
+               location = "group:xdk">
+            </FileRef>
+            <FileRef
+               location = "group:xdl">
+            </FileRef>
+            <FileRef
+               location = "group:xdm">
+            </FileRef>
+            <FileRef
+               location = "group:xdn">
+            </FileRef>
+            <FileRef
+               location = "group:xdo">
+            </FileRef>
+            <FileRef
+               location = "group:xdp">
+            </FileRef>
+            <FileRef
+               location = "group:xdq">
+            </FileRef>
+            <FileRef
+               location = "group:xdr">
+            </FileRef>
+            <FileRef
+               location = "group:xds">
+            </FileRef>
+            <FileRef
+               location = "group:xdt">
+            </FileRef>
+            <FileRef
+               location = "group:xdu">
+            </FileRef>
+            <FileRef
+               location = "group:xxx">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:StreamParserIntegrationTest.m">
+         </FileRef>
+         <FileRef
+            location = "group:WriterTest.m">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "container:pocketListings.xcodeproj">
+   </FileRef>
+</Workspace>

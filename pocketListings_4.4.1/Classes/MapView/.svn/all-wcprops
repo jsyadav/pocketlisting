@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mtgr8_pocketlistings/!svn/ver/4/pocketListings_4.4.1/Classes/MapView
+END
+AnnotationCalloutView.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/AnnotationCalloutView.h
+END
+AnnotationCalloutView.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/AnnotationCalloutView.m
+END
+CustomAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/CustomAnnotationView.h
+END
+MapViewUIDataController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/MapViewUIDataController.h
+END
+CustomAnnotationView.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/CustomAnnotationView.m
+END
+CurrentLocationAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/CurrentLocationAnnotation.h
+END
+MapViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/MapViewController.xib
+END
+MoreInfoView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/MoreInfoView.h
+END
+MapViewUIDataController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/MapViewUIDataController.m
+END
+LocationWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/LocationWrapper.h
+END
+CurrentLocationAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/CurrentLocationAnnotation.m
+END
+MyAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/MyAnnotationView.h
+END
+MapViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mtgr8_pocketlistings/!svn/ver/3/pocketListings_4.4.1/Classes/MapView/MapViewController.h
+END
+TouchView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/TouchView.h
+END
+MoreInfoView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/MoreInfoView.m
+END
+LocationWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/LocationWrapper.m
+END
+PropertyAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/PropertyAnnotation.h
+END
+MyAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/MyAnnotation.h
+END
+MyAnnotationView.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/MyAnnotationView.m
+END
+MapViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mtgr8_pocketlistings/!svn/ver/4/pocketListings_4.4.1/Classes/MapView/MapViewController.m
+END
+TouchView.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/TouchView.m
+END
+AnnotationCalloutView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/AnnotationCalloutView.xib
+END
+PropertyAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/PropertyAnnotation.m
+END
+MyAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mtgr8_pocketlistings/!svn/ver/1/pocketListings_4.4.1/Classes/MapView/MyAnnotation.m
+END
